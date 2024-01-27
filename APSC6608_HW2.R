@@ -1,4 +1,4 @@
-### R-Assignment 1 ###
+### APSC6608 Homework 2 ###
 
 #------------------------------------------------------------------------------#
 # 1. Make a vector from 1 to 100, then show on screen
